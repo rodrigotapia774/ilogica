@@ -15,13 +15,13 @@ Cuando ya tenga importada la base de datos usted debe correr las siguientes cuat
 ## Guide intregations
 El siguiente paso es cambiar la configuración de la conexión a la base de datos, esto se logra cambiando los valores en el archivo wp_config.php que se encuentran en la raíz del proyecto.
 
-## Nombre de la base de datos
+Nombre de la base de datos
 define( 'DB_NAME', '' );
 
-## Nombre del usuario de MySQL
+Nombre del usuario de MySQL
 define( 'DB_USER', '' );
 
-## Password del usuario de MySQL
+Password del usuario de MySQL
 define( 'DB_PASSWORD', '' );
 
 Con los pasos realizados en las instrucciones anteriores, usted podrá ver el trabajo realizado para la prueba de desarrollo.
@@ -31,13 +31,13 @@ A continuación describiremos las instrucciones de eso del backend de wordpress,
 
 Para efectos resumidos omitiremos las instrucciones que todos conocemos sobre wordpress, como Login, Page, Post, Config theme, Menu, Home page, etc.
 
-## THEME, el thema que se creó para este proyecto lo he llamado RockyWeb.
+THEME, el thema que se creó para este proyecto lo he llamado RockyWeb.
 
-## El logo, Favicon, Menú y página de inicio se deben configurar en Appearance => Customize.
+El logo, Favicon, Menú y página de inicio se deben configurar en Appearance => Customize.
 
 ## HOME 
 
-## La página de Home previamente seleccionada en el item anterior, se pueden agregar los valores por defecto que contiene las page de wordpress.
+La página de Home previamente seleccionada en el item anterior, se pueden agregar los valores por defecto que contiene las page de wordpress.
 
   1) La imagen del primer teléfono será la imagen destacada de Page home.
   2) El background-image o banner del home será una segunda imagen destacada que se le ha asignado llamada BANNER
@@ -89,4 +89,4 @@ Estos campos de información de contacto pueden tener dos campos, dos para locat
 
 
 
-## Para efectos de esta prueba de desarrollo no se han configurado ni agregados estilos para los demás paginas internas de la web como Search, Sidebar, Page, Post, ETC.
+Para efectos de esta prueba de desarrollo no se han configurado ni agregados estilos para los demás paginas internas de la web como Search, Sidebar, Page, Post, ETC.
