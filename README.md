@@ -15,6 +15,10 @@ Cuando ya tenga importada la base de datos usted debe correr las siguientes cuat
 ## Guide intregations
 El siguiente paso es cambiar la configuración de la conexión a la base de datos, esto se logra cambiando los valores en el archivo wp_config.php que se encuentran en la raíz del proyecto.
 
+Credenciales de usuario:
+Correo: rodrigotapia774@gmail.com
+Clave: Hh832475.,
+
 Nombre de la base de datos
 define( 'DB_NAME', '' );
 
